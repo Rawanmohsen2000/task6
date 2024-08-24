@@ -1,0 +1,21 @@
+.btn img 
+{
+    width: 20px   !important;
+    height: 20px  !important;
+}
+#btn1 {
+
+
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #ebdfe8;
+    color: #2f2f2f;
+    border: none;
+    outline: none;
+    cursor: pointer;
+
+}
